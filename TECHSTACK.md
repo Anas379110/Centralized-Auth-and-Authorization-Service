@@ -1,15 +1,10 @@
 # 🛠️ التقنيات المستخدمة — خدمة المصادقة والتفويض المركزية
 
-### الأمان والصلاحيات
-- OAuth2 / PKCE
-- RBAC
-- ABAC
+- ASP.NET Core
 - JWT
-- Identity Server
-### أدوات مساندة (في كل المشاريع)
-- **Git** لإدارة الإصدارات مع نموذج Branching منظم (Feature Branches + Pull Requests)
-- **اختبارات آلية**: اختبارات وحدة (Unit Tests) للمنطق الحساس، واختبارات تكامل (Integration Tests) لنقاط الـ API الأساسية
-- **مراقبة وتسجيل (Logging & Monitoring)**: تجميع مركزي للسجلات وتنبيهات عند تجاوز حدود معينة في الأداء أو الأخطاء
-
----
-*جزء من [توثيق المشروع الكامل](./PROJECT.md)*
+- OAuth2
+- SQL Server
+- Docker
+- Redis
+- Serilog
+- xUnit

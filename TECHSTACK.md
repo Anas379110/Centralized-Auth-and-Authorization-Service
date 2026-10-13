@@ -1,4 +1,4 @@
-# 🛠️ التقنيات المستخدمة — خدمة المصادقة والتفويض المركزية
+# 🛠️ Tech Stack — Centralized Authentication & Authorization Microservice
 
 - ASP.NET Core
 - JWT

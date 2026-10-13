@@ -1,21 +1,20 @@
-# خدمة المصادقة والتفويض المركزية
-**Centralized Authentication & Authorization Microservice** · التصنيف: خلفية (Backend)
+# Centralized Authentication & Authorization Microservice
+**Centralized Authentication & Authorization Microservice** · Category: Backend
 
-> هذا المشروع خاص بشركة/عميل محدد، والكود المصدري غير منشور.
 > Private client work — the source code is not public.
 
-## نبذة عن المشروع
-خدمة مصادقة مستقلة مع RBAC و ABAC وتدفق OAuth2 PKCE.
+## Project Overview
+Standalone authentication service with RBAC and ABAC and an OAuth2 PKCE flow.
 
-## أبرز النقاط
-- مصادقة متعددة المستأجرين
-- تدفق OAuth2 Authorization Code + PKCE
-- حماية من Brute-Force وسجل تدقيق
+## Highlights
+- Multi-tenant authentication
+- OAuth2 Authorization Code + PKCE flow
+- Brute-force protection and audit logging
 
-## الدور
-مطوّر Backend: تصميم وبناء الخدمات الخلفية وواجهات API، وإدارة قواعد البيانات والتخزين المؤقت، وتنفيذ المصادقة والأمان وتحسين الأداء.
+## Role
+Backend Developer: design and build backend services and APIs, manage databases and caching, implement authentication and security, and optimize performance.
 
-## التقنيات المستخدمة
+## Technologies Used
 ASP.NET Core, JWT, OAuth2, SQL Server, Docker, Redis, Serilog, xUnit
 
-التفاصيل في [TECHSTACK.md](./TECHSTACK.md).
+Details in [TECHSTACK.md](./TECHSTACK.md).
